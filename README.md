@@ -38,6 +38,7 @@ A. If I want operate on each element in the array
       --> `map`
 
 B. If I want to reduce the number of elements in the array
+
    1.
      -->
 
